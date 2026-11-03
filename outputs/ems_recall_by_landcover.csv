@@ -1,0 +1,6 @@
+land cover,EMS flooded km²,precision,recall,F1
+cropland,387.4,0.97,0.69,0.81
+built-up,6.69,0.95,0.19,0.31
+tree cover,20.23,0.91,0.22,0.36
+grass / shrub,36.48,0.97,0.56,0.71
+other,2.6,0.18,0.48,0.26

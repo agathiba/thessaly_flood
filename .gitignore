@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+data/ems/
+*.tif
+*.shp
+*.gpkg
+.env
+project_id.txt
+.DS_Store
+Thumbs.db
